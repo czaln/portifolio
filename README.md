@@ -23,6 +23,11 @@ Este é um projeto de site pessoal, criado como exercício de fixação dos conh
 
 Em desenvolvimento – melhorias futuras serão feitas conforme avanço no meu aprendizado.
 
+## 🔗 Acesse o site
+
+Você pode visualizar o projeto online aqui:  
+👉 [https://czaln.github.io/portifolio/](https://czaln.github.io/portifolio/)
+
 ## 📎 Autor
 
 César Augusto Lopes Nunes  
